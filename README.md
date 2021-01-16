@@ -1,4 +1,4 @@
-# twit_imposter_finder
+# Twit Imposter Finder
 interactive python3 cli script, which finds twitter accounts impersonating other people, then reports and blocks them. 
 
 ## why use this?
