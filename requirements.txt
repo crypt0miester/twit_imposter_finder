@@ -1,0 +1,9 @@
+selenium==3.141.0
+pyotp
+imagehash
+sqlalchemy
+pyopenssl
+ndg-httpsclient
+pyasn1
+urllib3
+sqlalchemy-utils
