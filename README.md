@@ -22,6 +22,13 @@ git clone https://github.com/crypt0miester/twit_imposter_finder.git
 # change directory
 cd twit_imposter_finder
 
+# download chrome driver
+https://sites.google.com/a/chromium.org/chromedriver/home
+or 
+https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.27/
+
+# unzip it to twit_imposter_finder folder
+
 # create virtual environment
 virtualenv env
 
