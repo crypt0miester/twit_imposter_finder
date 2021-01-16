@@ -79,5 +79,5 @@ MIT License, do whatever you want with the script.
 yeah sure, go ahead.
 
 # donations
-BTC - bitcoin:bc1qc907ntl58ale0jy3am5z4cfsjx2qks8eqsqs4q
-ETH - ethereum:0x03Fa9ce10EF29dd3ef9F7D00Ceee52613029993b
+* BTC - bitcoin:bc1qc907ntl58ale0jy3am5z4cfsjx2qks8eqsqs4q
+* ETH - ethereum:0x03Fa9ce10EF29dd3ef9F7D00Ceee52613029993b
